@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepika-rattewal&theme=react-dark&hide_border=true" width="100%" />
+</p>
 <!--
 **deepika-rattewal/deepika-rattewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
